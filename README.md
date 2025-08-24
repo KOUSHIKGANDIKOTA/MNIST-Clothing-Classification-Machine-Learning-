@@ -1,4 +1,4 @@
-## DEEP LEARNING CNN FOR FASHION-MNIST CLOTHING CLASSIFICATION  
+# DEEP LEARNING CNN FOR FASHION-MNIST CLOTHING CLASSIFICATION  
 Digital image processing is the use of a digital computer to process digital 
 images through an algorithms. As a subcategory or field of digital signal 
 processing, digital image processing has many advantages over analog image 
@@ -20,7 +20,7 @@ dataset for the MNIST dataset.
 It is a dataset comprised of 60,000 small square 28×28 pixel grayscale images of 
 items of 10 types of clothing, such as shoes, t-shirts, dresses, and more. The 
 mapping of all 0-9 integers to class labels is listed below. 
-• 0: T-shirt/top 
+/n • 0: T-shirt/top 
 • 1: Trouser 
 • 2: Pullover 
 • 3: Dress 
